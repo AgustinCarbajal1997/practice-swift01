@@ -16,6 +16,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9F1D66B729B7C5B500946564 /* MyPlayground03.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground03.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F1D66B829B7D56F00946564 /* MyPlayground04.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground04.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F1D66B929B913D500946564 /* MyPlayground05.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground05.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9F39615E29B68CD0003D9393 /* practicaSwift01.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = practicaSwift01.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F39616129B68CD0003D9393 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9F39616329B68CD0003D9393 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +27,8 @@
 		9F39616A29B68CD1003D9393 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9F39616D29B68CD1003D9393 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9F39616F29B68CD1003D9393 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9F39617529B68D2A003D9393 /* MiPlayground01.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MiPlayground01.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9F39617629B6A00D003D9393 /* MiPlayground02.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MiPlayground02.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +68,11 @@
 				9F39616A29B68CD1003D9393 /* Assets.xcassets */,
 				9F39616C29B68CD1003D9393 /* LaunchScreen.storyboard */,
 				9F39616F29B68CD1003D9393 /* Info.plist */,
+				9F39617529B68D2A003D9393 /* MiPlayground01.playground */,
+				9F39617629B6A00D003D9393 /* MiPlayground02.playground */,
+				9F1D66B729B7C5B500946564 /* MyPlayground03.playground */,
+				9F1D66B829B7D56F00946564 /* MyPlayground04.playground */,
+				9F1D66B929B913D500946564 /* MyPlayground05.playground */,
 			);
 			path = practicaSwift01;
 			sourceTree = "<group>";
